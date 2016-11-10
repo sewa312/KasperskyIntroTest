@@ -1,1 +1,6 @@
 c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\bin\Debug\KasperskyIntroTest.exe.config
+c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\bin\Debug\KasperskyIntroTest.exe
+c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\bin\Debug\KasperskyIntroTest.pdb
+c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\obj\Debug\KasperskyIntroTest.csprojResolveAssemblyReference.cache
+c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\obj\Debug\KasperskyIntroTest.exe
+c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\obj\Debug\KasperskyIntroTest.pdb
