@@ -1,0 +1,1 @@
+c:\users\vsevolod\documents\visual studio 2015\Projects\KasperskyIntroTest\KasperskyIntroTest\bin\Debug\KasperskyIntroTest.exe.config
