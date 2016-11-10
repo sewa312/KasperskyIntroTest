@@ -22,12 +22,12 @@ namespace KasperskyIntroTest
 
         public void FindAllPairs(float x)
         {
-            float[] collect = new float[set.Count];
-            set.CopyTo(collect);
-            for (int i = 0; i < collect.Length; i++)
+            foreach (var element in set)
             {
-                if (set.Contains(x - collect[i]) && collect[i] >= (x - collect[i]))
-                    Console.WriteLine("{0} = {1} + {2}", x, x - collect[i], collect[i]);
+                if (element > x / 2) { break; }
+                if (set.Contains(x - element))
+                    Console.WriteLine("{0} = {1} + {2}", x, x - element, element);
+                
             }
         } 
     }
